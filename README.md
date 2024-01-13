@@ -9,6 +9,8 @@ Git の基本を学習するためのサンプルリポジトリ
 
 Git のドキュメントの本家 Pro Git の日本語プロジェクト
 
+https://github.com/progit-ja/progit/tree/master/ja
+
 https://github.com/progit/progit2-ja/tree/master
 
 https://github.com/progit/progit2-ja/releases/download/2.1.7/progit.pdf
